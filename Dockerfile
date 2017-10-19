@@ -1,4 +1,4 @@
-FROM siutoba/docker-web:latest
+FROM siutoba/docker-web:V1.2
 MAINTAINER ablanco@siu.edu.ar
 
 COPY gestion.sh /entrypoint.d/
